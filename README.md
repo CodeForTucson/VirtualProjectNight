@@ -11,8 +11,12 @@ We're a local brigade of the national Code for America that puts technology to w
 - Explore our [existing projects](https://github.com/orgs/CodeForTucson/projects) or start your own!
 - Once you find one you're interested in, feel free to pick up an issue, or create something you think would be helpful! For beginners, try to look for issues tagged with ["good first issue"](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+label%3A%22good+first+issue%22+user%3ACodeForTucson)
  
- ## How to contribute code
- If you're a beginner, join our biweekly meetings. A good first contribute would be to log our meeting notes in this repo. We'll help you out with this, but if you'd like to try it yourself, see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+ ## How to contribute 
+ ### Code
+If you're a beginner, join our biweekly meetings. A good first contribution would be to log our meeting notes in this repo. We'll help you out with this, but if you'd like to try it yourself, see [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+ ### Content/Ideas
+ If you're not a coder, join a Slack Channel related to a project of interest and say hello!
  
  ## Code of Conduct
  See our Code of Conduct [here](https://www.codefortucson.com/code-of-conduct/)
