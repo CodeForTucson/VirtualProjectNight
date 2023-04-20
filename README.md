@@ -1,5 +1,6 @@
 # Virtual Project Night
-Welcome for newcomers on our biweekly project nights
+Welcome for newcomers on our biweekly project nights.
+Organization moved to [Open Tucson](https://github.com/orgs/Open-Tucson)
 
 ## About Us
 We harness technology, data, and design to tackle local issues and make Tucson a better place to live.
